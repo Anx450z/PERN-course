@@ -13,6 +13,6 @@ learning P.E.R.N stack
 
 ### Postgres CMD
 
-- \l;
-- \c;
+- \l
+- \c <databse>
 - \dt;
